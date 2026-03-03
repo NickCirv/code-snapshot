@@ -1,0 +1,40 @@
+{
+  "name": "code-snapshot",
+  "version": "1.0.0",
+  "description": "Named codebase snapshots. Diff before/after refactors. Zero dependencies.",
+  "type": "module",
+  "bin": {
+    "code-snapshot": "./index.js",
+    "snap": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "snapshot",
+    "diff",
+    "refactoring",
+    "backup",
+    "checkpoint",
+    "codebase"
+  ],
+  "license": "MIT",
+  "author": "NickCirv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/code-snapshot.git"
+  },
+  "homepage": "https://github.com/NickCirv/code-snapshot#readme",
+  "bugs": {
+    "url": "https://github.com/NickCirv/code-snapshot/issues"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
