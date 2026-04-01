@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # code-snapshot
 
 > Named snapshots of your codebase. Diff and restore. Zero dependencies.
